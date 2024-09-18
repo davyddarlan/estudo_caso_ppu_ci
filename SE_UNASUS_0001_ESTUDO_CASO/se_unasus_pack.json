@@ -1,0 +1,31 @@
+﻿{
+    "Package": "",
+    "Institution": {
+        "AroucaID": 4510421,
+        "Acronym": "SE/UNA-SUS",
+        "Name": "Secretaria Executiva da Universidade Aberta do SUS"
+    },
+    "Resource": {
+        "Name": "",
+        "Language": "pt-BR",
+        "CreationDate": "",
+        "Review": 0,
+        "ReviewDate": "",
+        "CoverImage": "capa.png"
+    },
+    "SupportedDevices": [
+        "Desktop"
+    ],
+    "Video": {
+        "Formats": [
+            "mp4"
+        ],
+        "Resolutions": []
+    },
+    "Persistence": {
+        "InstitutionAcronym": "",
+        "Version": "",
+        "Name": ""
+    },
+    "Dictionary": []
+}
